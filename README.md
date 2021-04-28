@@ -8,4 +8,4 @@ In order to do so, we're developing an open-source incubator that can be easily 
 
 An incubator is device that maintains the necessary parameters, such as temperature and humidity, for an environment suitable for the growth of mycelium (the vegetative part of fungi) and microorganisms of all kinds.
 
-→ [Documentation](http://domingoclub.com/incubator.html) 📙
+→ [Documentation](http://domingoclub.com/incubator.html)
