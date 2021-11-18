@@ -1,4 +1,4 @@
-The assets and text content of Dotgrid are under the **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+The assets and text content of Domingo Fermentor are under the **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
 
 This is a human-readable summary of (and not a substitute for) the license. Disclaimer.
 
