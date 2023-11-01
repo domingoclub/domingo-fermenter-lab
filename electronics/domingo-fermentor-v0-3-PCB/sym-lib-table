@@ -1,7 +1,0 @@
-(sym_lib_table
-  (lib (name pcb-incubator-v-0-3-01-rescue)(type Legacy)(uri ${KIPRJMOD}/pcb-incubator-v-0-3-01-rescue.lib)(options "")(descr ""))
-  (lib (name pcb-incubator-v-0-3-03-rescue)(type Legacy)(uri ${KIPRJMOD}/pcb-incubator-v-0-3-03-rescue.lib)(options "")(descr ""))
-  (lib (name pcb-incubator-v-0-3-04-rescue)(type Legacy)(uri ${KIPRJMOD}/pcb-incubator-v-0-3-04-rescue.lib)(options "")(descr ""))
-  (lib (name pcb-incubator-v-0-3-05-rescue)(type Legacy)(uri ${KIPRJMOD}/pcb-incubator-v-0-3-05-rescue.lib)(options "")(descr ""))
-  (lib (name pcb-incubator-v-0-3-06-rescue)(type Legacy)(uri ${KIPRJMOD}/pcb-incubator-v-0-3-06-rescue.lib)(options "")(descr ""))
-)
