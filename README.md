@@ -1,4 +1,4 @@
-# Domingo Fermenter
+# Domingo Fermenter Lab
 
 > An open-source fermenter that promotes fermented food and collaboration with natural processes.
  
@@ -37,6 +37,3 @@ The Fermenter Lab was designed from the ground up to be easily assembled and dis
 - [Buy it ready made](https://domingoclub.com/products/domingo-fermenter-lab)
 
 Domingo Club → [domingoclub.com](https://domingoclub.com) & [instagram.com/domingoclub](https://instagram.com/domingoclub/)
-
-
-
